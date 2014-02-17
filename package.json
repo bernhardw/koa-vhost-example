@@ -1,0 +1,15 @@
+{
+  "name": "koa-vhost-example",
+  "version": "0.0.0",
+  "description": "Simple example to demonstrate the use of vhosts in Koajs.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "bernhardw <mail@bernhardwanger.com>",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "~0.4.0",
+    "koa-compose": "~2.2.0"
+  }
+}
